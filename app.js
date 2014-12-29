@@ -1,5 +1,6 @@
 'use strict';
 
+var http = require('http');
 var koa = require('koa');
 var app = koa();
 
@@ -27,4 +28,7 @@ app.use(function *() {
 });
 
 // run
-app.listen(3001);
+// app.listen(3001);
+
+http.createServer(app.callback()).listen(3001);
+http.createServer(app.callback()).listen(3002);
