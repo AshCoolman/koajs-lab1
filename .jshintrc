@@ -4,6 +4,7 @@
   // Documentation: http://www.jshint.com/docs/
   "node": true,
   "esnext": true,
+  "noyield": true,
   "globals": {},
   "globalstrict": true,
   "quotmark": true,
