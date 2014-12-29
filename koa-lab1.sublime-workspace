@@ -1,0 +1,2215 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"User",
+				"UserSchema"
+			],
+			[
+				"timest",
+				"timestampBefore"
+			],
+			[
+				"time",
+				"timestampAfter"
+			],
+			[
+				"console",
+				"consoleLogThunk"
+			],
+			[
+				"campa",
+				"campaignsCondition"
+			],
+			[
+				"columns",
+				"columnsById"
+			],
+			[
+				"transform",
+				"transformRowsForJson2Csv"
+			],
+			[
+				"campaign",
+				"campaign_id"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"keys",
+				"keysRowOne"
+			],
+			[
+				"col",
+				"columnsById"
+			],
+			[
+				"leads",
+				"leadsFlat"
+			],
+			[
+				"lea",
+				"lead"
+			],
+			[
+				"colum",
+				"columnsById"
+			],
+			[
+				"coumns",
+				"columnsById"
+			],
+			[
+				"all",
+				"allCsv"
+			],
+			[
+				"colu",
+				"columns"
+			],
+			[
+				"true",
+				"true"
+			],
+			[
+				"expec",
+				"expected"
+			],
+			[
+				"sales_",
+				"sales_array"
+			],
+			[
+				"row",
+				"rowData"
+			],
+			[
+				"raw",
+				"rawRow"
+			],
+			[
+				"b",
+				"b"
+			],
+			[
+				"obj",
+				"objArr"
+			],
+			[
+				"byI",
+				"byIdTotals"
+			],
+			[
+				"expe",
+				"expected"
+			],
+			[
+				"check",
+				"checkHas"
+			],
+			[
+				"dow",
+				"downloadCSV"
+			],
+			[
+				"_bui",
+				"_buildMenuModels"
+			],
+			[
+				"key",
+				"key_map"
+			],
+			[
+				"meta",
+				"metaSelected"
+			],
+			[
+				"ar",
+				"arguments"
+			],
+			[
+				"_b",
+				"_buildColumns"
+			],
+			[
+				"_meta",
+				"_metaPromiseSucceed"
+			],
+			[
+				"api",
+				"apiSelected"
+			],
+			[
+				"text",
+				"textColor"
+			],
+			[
+				"line",
+				"inline-block"
+			],
+			[
+				"link",
+				"linkFunc"
+			],
+			[
+				"allse",
+				"allSelectedResolved"
+			],
+			[
+				"sub",
+				"subCopy"
+			],
+			[
+				"k",
+				"keyValue"
+			],
+			[
+				"arr",
+				"arrObj"
+			],
+			[
+				"NgTa",
+				"NgTableHelperService"
+			],
+			[
+				"aa",
+				"aa"
+			],
+			[
+				"range",
+				"rangeSelected"
+			],
+			[
+				"rage",
+				"rangeSelected"
+			],
+			[
+				"campgi",
+				"campaignsSelected"
+			],
+			[
+				"_",
+				"_onDateRangeChanged"
+			],
+			[
+				"notS",
+				"notSame"
+			],
+			[
+				"s",
+				"selected"
+			],
+			[
+				"is",
+				"isMoment"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"PeriodSheetC",
+				"PeriodSheetController"
+			],
+			[
+				"Perio",
+				"PeriodTableCollectionDirective"
+			],
+			[
+				"cli",
+				"clickedRow"
+			],
+			[
+				"sales",
+				"sales_sum"
+			],
+			[
+				"metri",
+				"metricList"
+			],
+			[
+				"overla",
+				"overlay_name"
+			],
+			[
+				"clicks",
+				"clicks_sum"
+			],
+			[
+				"start",
+				"startHR"
+			],
+			[
+				"rev",
+				"revenues"
+			],
+			[
+				"impres",
+				"impressions"
+			],
+			[
+				"wi",
+				"withSummary"
+			],
+			[
+				"allP",
+				"allPeriodsFlat"
+			],
+			[
+				"period",
+				"perioddata"
+			],
+			[
+				"per",
+				"period"
+			],
+			[
+				"ex",
+				"expected"
+			],
+			[
+				"impressions",
+				"impressions_sum"
+			],
+			[
+				"sum",
+				"sumVals"
+			],
+			[
+				"revenues",
+				"revenues_sum"
+			],
+			[
+				"Day",
+				"days"
+			],
+			[
+				"short",
+				"shortmnt"
+			],
+			[
+				"dateR",
+				"dateRange"
+			],
+			[
+				"tra",
+				"trackingStartDate"
+			],
+			[
+				"fa",
+				"familyId"
+			],
+			[
+				"form",
+				"form_submits"
+			],
+			[
+				"dateRange",
+				"dateRangeChanged"
+			],
+			[
+				"doSlide",
+				"doSlideIn"
+			],
+			[
+				"CampaignPr",
+				"campaignProblems"
+			],
+			[
+				"yiel",
+				"yieldify_revenue"
+			],
+			[
+				"over",
+				"overview"
+			],
+			[
+				"get_",
+				"get_overview"
+			],
+			[
+				"ge",
+				"get_overview"
+			],
+			[
+				"te",
+				"templates"
+			],
+			[
+				"dat",
+				"datified"
+			],
+			[
+				"broa",
+				"broadcastName"
+			],
+			[
+				"bro",
+				"broadcastName"
+			],
+			[
+				"src",
+				"srcproptouse"
+			],
+			[
+				"daterang",
+				"daterangeselector"
+			],
+			[
+				"de",
+				"debugger"
+			],
+			[
+				"campai",
+				"campaignImpressionsLoaded"
+			],
+			[
+				"drawImp",
+				"drawImpressionGraph"
+			],
+			[
+				"update",
+				"updateImpressionGraph"
+			],
+			[
+				"plot",
+				"plotBands"
+			],
+			[
+				"g",
+				"getCampaignGraph"
+			],
+			[
+				"sour",
+				"sourceData"
+			],
+			[
+				"amen",
+				"amenuData"
+			],
+			[
+				"series",
+				"seriesData"
+			],
+			[
+				"sei",
+				"seriesData"
+			],
+			[
+				"data",
+				"dataList"
+			],
+			[
+				"date",
+				"dateRangeEnd"
+			],
+			[
+				"datera",
+				"dateranged"
+			],
+			[
+				"invali",
+				"invalidateTable"
+			],
+			[
+				"da",
+				"dateRangeStart"
+			],
+			[
+				"inva",
+				"invalidateTable"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"hide",
+				"hideDelay"
+			],
+			[
+				"preview",
+				"preview_url_all"
+			],
+			[
+				"invalid",
+				"invalidate_graph_selection"
+			],
+			[
+				"invl",
+				"invalidate_graph_selection"
+			],
+			[
+				"inval",
+				"invalidate_graph_selection"
+			],
+			[
+				"chart",
+				"chart9"
+			],
+			[
+				"seri",
+				"seriesOptions"
+			],
+			[
+				"border",
+				"borderWidth"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"firstD",
+				"firstDateObj"
+			],
+			[
+				"roo",
+				"rootResBackendtemplates"
+			],
+			[
+				"root",
+				"rootClientCampaignDist"
+			],
+			[
+				"domain",
+				"domain"
+			],
+			[
+				"back",
+				"backend-templates"
+			],
+			[
+				"s3",
+				"s3DeployDir"
+			],
+			[
+				"less",
+				"lessTaskCfg"
+			],
+			[
+				"deply",
+				"s3DeployDir"
+			],
+			[
+				"scr",
+				"script-list"
+			],
+			[
+				"scrip",
+				"scriptList"
+			],
+			[
+				"DIST",
+				"dist"
+			],
+			[
+				"read",
+				"readFileSync"
+			],
+			[
+				"for",
+				"forEach"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app.js",
+			"settings":
+			{
+				"buffer_size": 405,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/ashleycoleman/lab/koatute/package.json",
+			"settings":
+			{
+				"buffer_size": 481,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 127.0,
+		"selected_items":
+		[
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jsl",
+				"JSLint"
+			],
+			[
+				"jslin",
+				"JSLint"
+			],
+			[
+				"re",
+				"File: Rename"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"js be",
+				"Javascript Beautify"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"dup",
+				"File: Duplicate"
+			],
+			[
+				"rn",
+				"File: Rename"
+			],
+			[
+				"coffee",
+				"Coffee: Lint"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"sy jade",
+				"Set Syntax: Jade"
+			],
+			[
+				"sy js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sy cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"du",
+				"File: Duplicate"
+			],
+			[
+				"sy co",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"rena",
+				"File: Rename"
+			],
+			[
+				"sy cs",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"del",
+				"File: Delete"
+			],
+			[
+				"sy html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy ja",
+				"Set Syntax: Jade"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"json in",
+				"JSON Reindent: reindent file or selection"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"jos",
+				"Set Syntax: JSON"
+			],
+			[
+				"mo",
+				"File: Move"
+			],
+			[
+				"mov",
+				"File: Move"
+			],
+			[
+				"RENA",
+				"File: Rename"
+			],
+			[
+				"d",
+				"File: Delete"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"sy j",
+				"Set Syntax: Jade"
+			],
+			[
+				"dlete",
+				"File: Delete"
+			],
+			[
+				"syn js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"coff li",
+				"Coffee: Lint"
+			],
+			[
+				"dupli",
+				"File: Duplicate"
+			],
+			[
+				"sy ht",
+				"Set Syntax: HTML (Tcl)"
+			],
+			[
+				"filede",
+				"File: Delete"
+			],
+			[
+				"file:d",
+				"File: Delete"
+			],
+			[
+				"file:",
+				"File: Delete"
+			],
+			[
+				"file ",
+				"File: Delete"
+			],
+			[
+				"delte",
+				"File: Delete"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn cs",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"sycs",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"scs",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"beatuf",
+				"Javascript Beautify"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html",
+				"HTMLBeautify"
+			],
+			[
+				"smd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"sjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"html pre",
+				"HTMLPrettify"
+			],
+			[
+				"pretty json",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"prett",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"json pre",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"js bea",
+				"Javascript Beautify"
+			],
+			[
+				"syn cos",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"js b",
+				"Javascript Beautify"
+			],
+			[
+				"synjs",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"shtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"haml",
+				"Set Syntax: Coffee Haml"
+			],
+			[
+				"sy",
+				"Set Syntax: HTML"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"synham",
+				"Set Syntax: Coffee Haml"
+			],
+			[
+				"html2",
+				"HTML2Haml: Convert selection"
+			],
+			[
+				"htm",
+				"HTMLBeautify"
+			],
+			[
+				"htbe",
+				"HTMLBeautify"
+			],
+			[
+				"syn html",
+				"Set Syntax: HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"syn h",
+				"Set Syntax: HTML"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syn cof",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"cofee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"javas",
+				"Javascript Beautify"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"s:js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"s:html",
+				"Set Syntax: HTML"
+			],
+			[
+				"sy: html",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax: js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"syntax: jav",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"new file",
+				"File: New View into File"
+			],
+			[
+				"syntax: J",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"dete",
+				"File: Delete"
+			],
+			[
+				"syntax: htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"syntax: javas",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Syntax: Html",
+				"Set Syntax: HTML"
+			],
+			[
+				"Syntax: Ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"Syntax: COffe",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Syntas: c",
+				"Set Syntax: CoffeeScript (Literate)"
+			],
+			[
+				"Syntax: Coffee",
+				"Set Syntax: CoffeeScript"
+			],
+			[
+				"Less",
+				"Set Syntax: LESS"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Preferences",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"sass",
+				"SassBeautify"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"mini",
+				"Minify::Minify File"
+			],
+			[
+				"diff",
+				"FileDiffs: Menu"
+			],
+			[
+				"lor",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"lorum",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 552.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/ashleycoleman/lab/koatute"
+	],
+	"file_history":
+	[
+		"/Users/ashleycoleman/Library/Application Support/Notational Data/blog- koajs.txt",
+		"/Users/ashleycoleman/lab/koajs-lab1/package.json",
+		"/Users/ashleycoleman/lab/koatute/package.json",
+		"/Users/ashleycoleman/lab/koatute/app.js",
+		"/Users/ashleycoleman/lab/koajs1/app.js",
+		"/Users/ashleycoleman/lab/koajs-lab1/app.js",
+		"/Users/ashleycoleman/.bash_profile",
+		"/Users/ashleycoleman/lab/koatute/tute.md",
+		"/Users/ashleycoleman/lab/koatute/dictapi/api/api.js",
+		"/Users/ashleycoleman/lab/koatute/dictapi/package.json",
+		"/Users/ashleycoleman/lab/koatute/dictapi/npm-debug.log",
+		"/Users/ashleycoleman/lab/koatute/dictapi/.gitignore",
+		"/Users/ashleycoleman/lab/koatute/dictapi/index.js",
+		"/Users/ashleycoleman/lab/dictapi/app.js",
+		"/Users/ashleycoleman/lab/dictapi/index.js",
+		"/Users/ashleycoleman/lab/karma/app.js",
+		"/Users/ashleycoleman/api/spec/test/leads.spec.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/leads.coffee",
+		"/Users/ashleycoleman/api/module/db.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/sales_table_export.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/sales_meta.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/sales_legacy_meta.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/sales_legacy_export.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/sales_export.coffee",
+		"/Users/ashleycoleman/api/route/main.coffee",
+		"/Users/ashleycoleman/api/.elasticbeanstalk/config",
+		"/Users/ashleycoleman/api/config.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/index.coffee",
+		"/Users/ashleycoleman/api/config.json",
+		"/Users/ashleycoleman/api/module/router.coffee",
+		"/Users/ashleycoleman/api/README.md",
+		"/Users/ashleycoleman/api/scripts/lint",
+		"/Users/ashleycoleman/api/service/data_provider/leads_meta.coffee",
+		"/Users/ashleycoleman/api/route/overview.coffee",
+		"/Users/ashleycoleman/api/coffeelint.json",
+		"/Users/ashleycoleman/api/module/json.coffee",
+		"/Users/ashleycoleman/api/module/querystring.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/pageleads/exportreports/export-transactions.template.jade",
+		"/Users/ashleycoleman/dashboard_frontend/package.json",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/ngDialog/js/ngDialog.min.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/jquery/src/exports/amd.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/jquery/src/effects/animatedSelector.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/moment/locale/ja.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/bootstrap/less/jumbotron.less",
+		"/Users/ashleycoleman/dashboard_frontend/test/helpers.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/moment/locale/hy-am.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/jquery/src/var/hasOwn.js",
+		"/Users/ashleycoleman/Downloads/style-min (1).css",
+		"/Users/ashleycoleman/lab/habitrpg/public/js/services/sharedServices.js",
+		"/Users/ashleycoleman/lab/habitrpg/public/css/shared.styl",
+		"/Users/ashleycoleman/lab/habitrpg/test/spec/specHelper.js",
+		"/Users/ashleycoleman/lab/habitrpg/src/seed.js",
+		"/Users/ashleycoleman/api/route/sales.coffee",
+		"/Users/ashleycoleman/api/service/util/json_to_csv.coffee",
+		"/Users/ashleycoleman/api/service/util/data_query_formatter.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/leads_export.coffee",
+		"/Users/ashleycoleman/api/.gitignore",
+		"/Users/ashleycoleman/api/service/data_provider/data_query_formatter.coffee",
+		"/Users/ashleycoleman/api/scripts/test",
+		"/Users/ashleycoleman/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/ashleycoleman/api/node_modules/jasmine-node/package.json",
+		"/Users/ashleycoleman/api/spec/campaigns.spec.BROKEN.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/top_performing_campaigns.coffee",
+		"/Users/ashleycoleman/api/service/data_provider/profiles.coffee",
+		"/Users/ashleycoleman/api/package.json",
+		"/Users/ashleycoleman/api/cluster.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/directives/columngraph-widget.js.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/fieldselect/columnselect.template.jade",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/services/csvmaker.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/fieldselect/columnselect.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/dashboard-ng.js.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/datemenu/datemenu.directive.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/datemenu/datemenu.less",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/directives/daterangeselector.directive.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/templates/daterangeselector.template.html",
+		"/Users/ashleycoleman/dashboard_frontend/app/style/snowy/neon-snowy.less",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/datemenu/datemenu.template.jade",
+		"/Users/ashleycoleman/dashboard_frontend/app/routes/leads/leads.controller.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/style/other-less/lesshat.less",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/directives/loader-directive.js.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/services/ngtablehelper.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/style/neon-less/daterangepicker.less",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/moment/locale/de-at.js",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/pageleads/exportreports/export-transactions.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/pageleads/exportreports/export-transactions.directive-controller.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/pageleads/page-transactions.controller.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/pageleads/page-transactions.template.jade",
+		"/Users/ashleycoleman/dashboard_frontend/karma.conf.js",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/services/test.export-transactions.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/controllers/test.column-select.controller.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/services/test.columns-select.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/controllers/test.page-transactions.controller.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/directives/tablecampaigns-directive.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/services/test.ng-table-helper.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/services/test.csvmaker.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/services/_test.xxxxxx.service.coffee_",
+		"/Users/ashleycoleman/dashboard_frontend/test/e2e/test.e2e.spec.js",
+		"/Users/ashleycoleman/dashboard_frontend/app/style/snowy/components/export.less",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/lib/exporting.js",
+		"/Users/ashleycoleman/dashboard_frontend/test/coverage/PhantomJS 1.9.8 (Mac OS X)/prettify.css",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/services/test.summary-boxes.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/services/session.service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/angular/angular.js",
+		"/Users/ashleycoleman/dashboard_frontend/test/spec/api/test.sales_meta.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/controllers/sales.controller.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/templates/sheets-menu-version-a.template.html",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/controllers/SheetsController.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/pageleads/exportreports/export-transactions.directive-controller-service.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/bower.json",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/lib/bootstrap.js",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/pageleads/exportreports/export-reports.template.jade",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/fieldselect/columnselect.directive-controller.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/controller/campaign-select.directive.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/templates/sheets.template.jade",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/lodash/dist/lodash.underscore.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/lodash/dist/lodash.js",
+		"/Users/ashleycoleman/dashboard_frontend/Gulpfile.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/lodash/dist/lodash.min.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/lodash/dist/lodash.compat.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/jquery/src/ajax/parseJSON.js",
+		"/Users/ashleycoleman/dashboard_frontend/bower_components/jquery/src/ajax/jsonp.js",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/lib/joinable.js",
+		"/Users/ashleycoleman/dashboard_frontend/app/style/snowy/components/columnselect.less",
+		"/Users/ashleycoleman/dashboard_frontend/test/test.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/directives/onefigure-widget.js.coffee",
+		"/Users/ashleycoleman/dashboard_frontend/app/style/snowy/overwriter.less",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/components/campaignsimpleselect/campaignselect.template.jade",
+		"/Users/ashleycoleman/dashboard_frontend/app/src/services/campaignlist.service.coffee"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"*.*",
+			"*.coffee",
+			"*.less",
+			"*.*",
+			"*/test.*",
+			"test.*",
+			"test*.*",
+			"*.*",
+			"*.template.*",
+			"*.html",
+			"*.*",
+			"*.coffee",
+			"*.less",
+			"*.*",
+			"*.js",
+			"*.coffee",
+			"*.less",
+			"*.coffee",
+			"*.less",
+			"*.*",
+			"*.template.html",
+			"*.coffee",
+			"*.controller.coffee",
+			"*.*",
+			"*.less",
+			"*.*",
+			"*.html",
+			"*.*",
+			"*.coffee",
+			"*.less",
+			"*.*",
+			"*.html",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.html",
+			"*.*",
+			"*.coffee",
+			"*.less",
+			"*.html",
+			"*.coffee",
+			"*.html",
+			"*.coffee",
+			"*.html",
+			"*.coffee",
+			"*.html",
+			"*.less",
+			"*.html",
+			"*.coffee",
+			"*.template.html",
+			"*.less",
+			"*.*",
+			"*.tpl.html",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.coffee",
+			"*.js",
+			"*.*",
+			"*.coffee",
+			"*.*",
+			"*.js.coffee",
+			"*.*",
+			"*.erb.html",
+			"*.erb",
+			"*.js.coffee",
+			"*.*",
+			"*.j",
+			"*.js",
+			"*.js.coffee",
+			"*.js",
+			"*.js.coffee",
+			"*.js",
+			"*.js.coffee",
+			"*.less",
+			"*.js.coffee",
+			"*.less",
+			"*.*",
+			"*.js.coffee",
+			"*.*",
+			"*.js.coffee",
+			"*.less",
+			"*.*",
+			"*.less",
+			"*.js.coffee",
+			"*.erb",
+			"*.*",
+			"*.less",
+			"*.js.coffee",
+			"*.less",
+			"*.js.coffee",
+			"*.*",
+			"*.js.coffee",
+			"*.*",
+			"*.js.coffee",
+			"*.html.erb",
+			"*.js.coffee",
+			"*.js",
+			"*.js.coffee",
+			"*.html.erb",
+			"*.js.coffee",
+			"*.less",
+			"*.*",
+			"_OVERLAYS/_overlay ex/003/dist-edge/*.*",
+			"*.js",
+			"*.*",
+			"*.less",
+			"*.*",
+			"*.js.coffee",
+			"*.*",
+			"*.erb",
+			"*.*",
+			"*.less",
+			"\""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"function *",
+			" function",
+			"img1",
+			"string",
+			"default",
+			"koaRouter",
+			"THEN",
+			"fs",
+			"this",
+			"mount",
+			"* ",
+			"sales_legacy_meta",
+			"sales_export",
+			"leads_meta",
+			"promise",
+			"promis",
+			"promisifyAll",
+			"bluebird",
+			"require",
+			"converter",
+			"bluebird",
+			"sales",
+			"sales_table_export",
+			"lega",
+			"sales",
+			"sales_export",
+			"sales",
+			"get_stats_sales",
+			"sales",
+			"sales_meta",
+			"get_sales_meta",
+			"leads_export",
+			"leads",
+			"leads_export",
+			"leads_expot",
+			"provider",
+			"sales_export",
+			"sales_exporrt",
+			"sendOutData",
+			"handle",
+			"handler",
+			"equire \"blue",
+			"sales_table_export",
+			"\"sales_table",
+			"console.log",
+			"Split",
+			"console",
+			"plumber",
+			"require(\"../\")",
+			"habitrpgShared",
+			"habitrpgShared=",
+			"habitrpgShared:",
+			"habitrpgShared =",
+			"sendOutData",
+			"isExport, campaigns",
+			"campaigns",
+			"sendOutData",
+			"campaigns",
+			"selectedCampaigns",
+			"columnsById {",
+			"columnsById",
+			"sendOutData handler, isExport, campaigns,",
+			"sendOutData",
+			"columnsById",
+			"columns",
+			"sendOutData",
+			"leads",
+			"/:website_id/leads",
+			"leads",
+			"query.data",
+			">>>>>",
+			"sales_cpids",
+			"leads",
+			"json2csv",
+			"campaigns",
+			"sendOutData {",
+			"sendOutData",
+			"config",
+			"sendOutData",
+			"json2csv",
+			"columnsById, ",
+			"campaigns",
+			"result",
+			"groupById",
+			"convertAllPromised",
+			"leads",
+			" and ",
+			"sendOutData",
+			"converter",
+			"moment",
+			"data_provider",
+			"leads",
+			"isExport",
+			"leads",
+			"formatLeadsIfNeeded",
+			"formatLeads",
+			"data",
+			"props",
+			"transformRows",
+			"build",
+			"transformRows",
+			"\"json2csv\", ",
+			"transformRows",
+			"checkSchema",
+			"areAllColumnsTheSame",
+			"convertAllPromised r",
+			"convertAllPromised ",
+			"transformRowsForJson2CSV",
+			"promiseTocConvertAll",
+			"transformRows",
+			"transformRowsForJson2CSV",
+			"promiseTocConvertAll",
+			"Grouped",
+			"column",
+			"columns",
+			"Grouped",
+			"buildToConvert",
+			"convertAll",
+			"Not all documents have the same schema",
+			"Not all documents have the same schema.",
+			"query.data.daterange",
+			"campaigns",
+			"transactions",
+			"splitted",
+			"query.data.daterange.spli",
+			"query?.",
+			"campaignsArr",
+			"splitted"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"sales_export",
+			"transformRowsForJson2CSV",
+			"CampaignListServiceModule",
+			"Module",
+			"CampaignSheetController",
+			"CampaignSheetControllerModule",
+			"$scope.totals = calcTotals $",
+			"etvm",
+			"exporttransactionsvm",
+			"ExportTransactions",
+			"export_transactions",
+			"export-transactions",
+			"transactionsvm",
+			"PageTransactions",
+			"ExportTransactions",
+			"ExportTransactionsService",
+			"UtilServiceModule",
+			"PeriodSheetController",
+			"ApiBasicService",
+			"SessionInfoService",
+			"ApiBasicService",
+			"tblTicked",
+			"percentage:1",
+			"calcDerivedMetrics",
+			"_nh.flattenSumMetricsOnto",
+			"createSummary",
+			".template.html",
+			"/tpl",
+			"createSummaryRowsForCampaignFamilies",
+			"datesensitive",
+			"clientId",
+			"$provide",
+			"    ",
+			"	",
+			"\\'",
+			" ",
+			"\"",
+			" \"",
+			" ",
+			"\"",
+			" ",
+			"ViewService",
+			" ",
+			"//dwmvwp56lzq5t.cloudfront.net/",
+			" ",
+			"\"",
+			"losimpleheading",
+			"hiderowtwo",
+			"hiderowone",
+			"{{bootstrapcolumn}}",
+			"bootstrapcolumn:",
+			"bootstrapcolumn=\"",
+			"losimpleheading",
+			"hiderowtwo",
+			"{{bootstrapcolumn}}",
+			"bootstrapcolumn: '@",
+			"bootstrapcolumn=\"",
+			"bootstrapcolumn",
+			"bootstrapcolumn=\"",
+			"tileclass",
+			"tileclass=\"",
+			"stubbuildimpression",
+			"  ",
+			"      $('#",
+			" -",
+			" - [",
+			"	",
+			"",
+			"	",
+			"* ",
+			"topfivelist",
+			"",
+			"EditSplitTest",
+			"EditSplit",
+			"EditSplitTest",
+			"-edit-splittest",
+			"y-app-campaign-edit-splittest-btn",
+			"pathcontaine",
+			"header",
+			"updateCampaignInfo",
+			"toggleCampaignInfo",
+			"toggleShowApp\ntoggleCampaignInfo",
+			"y-app-campaign-info",
+			"campListIframe",
+			"CampaignEditUI",
+			"toggleAppCampaignEditUI",
+			"updateAppCampaignEditUI",
+			"y-on",
+			"y-off",
+			"y-rnd",
+			"y-",
+			"",
+			"ydm-app-campaign-info",
+			"ydm-app-campaign-edit",
+			"display: block",
+			" #### ",
+			" *",
+			"\n # ",
+			" * ",
+			"//console.",
+			"pdt",
+			"ayout2",
+			"ayout3",
+			"//console.log",
+			"html div#ydm-info-ui",
+			"#ydm-info-ui",
+			"rgb(197, 240, 197)",
+			"#B8E4FF",
+			"#A2DAFD",
+			"tr.split-test-header",
+			".ydm-",
+			"yie_cookie_clear",
+			"case-studie",
+			".follow-up h2",
+			"console.log('bg.js', ",
+			"console.log('Content.js', ",
+			"created",
+			"original-site-career-md",
+			"juniorrubyonrail,c,",
+			"index.",
+			"\"/revolution-slider/images/",
+			"src=\"/img/t.gif\"",
+			"\"/img/",
+			"\"img/\n\"/img/",
+			"\"/img/",
+			"+num",
+			"name=\"",
+			"name=\"yi_"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 405,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								99,
+								99
+							],
+							[
+								257,
+								257
+							],
+							[
+								334,
+								334
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/ashleycoleman/lab/koatute/package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 481,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								477,
+								477
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 88.0
+	},
+	"output.find_results":
+	{
+		"height": 92.0
+	},
+	"project": "koa-lab1.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"pa",
+				"package.json"
+			],
+			[
+				"sales_le",
+				"service/data_provider/sales_legacy_meta.coffee"
+			],
+			[
+				"leads.c",
+				"service/data_provider/leads.coffee"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"index",
+				"service/data_provider/index.coffee"
+			],
+			[
+				"sales_ta",
+				"service/data_provider/sales_table_export.coffee"
+			],
+			[
+				"sales_e",
+				"service/data_provider/sales_export.coffee"
+			],
+			[
+				"sales_export",
+				"service/data_provider/sales_table_export.coffee"
+			],
+			[
+				"sales_expo",
+				"service/data_provider/sales_table_export.coffee"
+			],
+			[
+				"main",
+				"route/main.coffee"
+			],
+			[
+				"sales",
+				"service/data_provider/sales_legacy_meta.coffee"
+			],
+			[
+				"config",
+				"config.coffee"
+			],
+			[
+				"rou",
+				"route/main.coffee"
+			],
+			[
+				"met",
+				"service/data_provider/sales_meta.coffee"
+			],
+			[
+				"main.coffee",
+				"route/main.coffee"
+			],
+			[
+				"onfi",
+				"config.coffee"
+			],
+			[
+				"sales_ex",
+				"service/data_provider/sales_export.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"sales_",
+				"service/data_provider/sales_meta.coffee"
+			],
+			[
+				"json",
+				"service/util/json_to_csv.coffee"
+			],
+			[
+				"query",
+				"service/util/data_query_formatter.coffee"
+			],
+			[
+				"e2e",
+				"test/e2e/test.e2e.spec.js"
+			],
+			[
+				"protra",
+				"test/protractor.conf.js"
+			],
+			[
+				"gul",
+				"Gulpfile.coffee"
+			],
+			[
+				"forma",
+				"service/util/data_query_formatter.coffee"
+			],
+			[
+				"leads.",
+				"spec/test/leads.spec.coffee"
+			],
+			[
+				"leads.s",
+				"spec/test/leads.spec.coffee"
+			],
+			[
+				"conf",
+				"config.coffee"
+			],
+			[
+				"config.cffe",
+				"config.coffee"
+			],
+			[
+				"test.",
+				"spec/test/leads.spec.coffee"
+			],
+			[
+				"leads.sp",
+				"spec/test/leads.spec.coffee"
+			],
+			[
+				"read",
+				"README.md"
+			],
+			[
+				"leads_met",
+				"service/data_provider/leads_meta.coffee"
+			],
+			[
+				"meta",
+				"service/data_provider/sales_meta.coffee"
+			],
+			[
+				"",
+				"service/data_provider/leads.coffee"
+			],
+			[
+				"leads",
+				"service/data_provider/leads.coffee"
+			],
+			[
+				"spec.",
+				"spec/test/sales_meta_export.spec.coffee"
+			],
+			[
+				".spec",
+				"spec/campaigns.spec.coffee"
+			],
+			[
+				"salesexpo",
+				"service/data_provider/sales_table_export.coffee"
+			],
+			[
+				"export",
+				"service/data_provider/sales_table_export.coffee"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"confi",
+				"config.coffee"
+			],
+			[
+				"column",
+				"app/src/components/fieldselect/columnselect.directive-controller.coffee"
+			],
+			[
+				"datemenu",
+				"app/src/components/datemenu/datemenu.less"
+			],
+			[
+				"datemen",
+				"app/src/components/datemenu/datemenu.template.jade"
+			],
+			[
+				"dateme",
+				"app/src/components/datemenu/datemenu.controller.coffee"
+			],
+			[
+				"neon-sno",
+				"app/style/snowy/neon-snowy.less"
+			],
+			[
+				"daterangeselector",
+				"app/src/templates/daterangeselector.template.html"
+			],
+			[
+				"daterange",
+				"app/style/neon-less/daterangepicker.less"
+			],
+			[
+				"exportt",
+				"app/src/components/pageleads/exportreports/export-transactions.template.jade"
+			],
+			[
+				"pagetranstem",
+				"app/src/components/pageleads/page-transactions.template.jade"
+			],
+			[
+				"karma",
+				"karma.conf.js"
+			],
+			[
+				"tests.export",
+				"test/spec/services/test.export-transactions.service.coffee"
+			],
+			[
+				"pagetra",
+				"app/src/components/pageleads/page-transactions.controller.coffee"
+			],
+			[
+				"csv",
+				"app/src/services/csvmaker.service.coffee"
+			],
+			[
+				"exportrase",
+				"app/src/components/pageleads/exportreports/export-transactions.service.coffee"
+			],
+			[
+				"nghe",
+				"test/spec/services/test.ng-table-helper.service.coffee"
+			],
+			[
+				"nghel",
+				"test/spec/services/test.ng-table-helper.service.coffee"
+			],
+			[
+				"test.csv",
+				"test/spec/services/test.csvmaker.service.coffee"
+			],
+			[
+				"test.expo",
+				"test/spec/services/test.export-transactions.service.coffee"
+			],
+			[
+				"page",
+				"app/src/components/pageleads/page-transactions.template.jade"
+			],
+			[
+				"ngtable",
+				"app/src/services/ngtablehelper.service.coffee"
+			],
+			[
+				"test.xx",
+				"test/spec/services/_test.xxxxxx.service.coffee_"
+			],
+			[
+				"testexport",
+				"app/src/components/pageleads/exportreports/export-transactions.service.coffee"
+			],
+			[
+				"exporttr",
+				"app/src/components/pageleads/exportreports/export-transactions.directive-controller-service.coffee"
+			],
+			[
+				"bower",
+				"bower.json"
+			],
+			[
+				"paget",
+				"app/src/components/pageleads/page-transactions.template.jade"
+			],
+			[
+				"pagetrans",
+				"app/src/components/pageleads/page-transactions.controller.coffee"
+			],
+			[
+				"lodash",
+				"bower_components/lodash/dist/lodash.underscore.js"
+			],
+			[
+				"columnsele",
+				"app/src/components/fieldselect/columnselect.service.coffee"
+			],
+			[
+				"test.cou",
+				"test/spec/services/test.columns-select.service.coffee"
+			],
+			[
+				"sheettem",
+				"app/src/templates/sheets.template.jade"
+			],
+			[
+				"ower",
+				"bower.json"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"bootstrap",
+				"bower_components/bootstrap/less/bootstrap.less"
+			],
+			[
+				"bootstra",
+				"app/src/lib/bootstrap.js"
+			],
+			[
+				"selectcolum",
+				"app/src/components/fieldselect/columnselect.template.jade"
+			],
+			[
+				"api",
+				"app/src/services/apibasic.service.coffee"
+			],
+			[
+				"test.util",
+				"test/spec/services/test.util.service.coffee"
+			],
+			[
+				"test.uti",
+				"test/spec/services/test.util.service.coffee"
+			],
+			[
+				"utilserv",
+				"app/src/services/util.service.coffee"
+			],
+			[
+				"dashboa",
+				"app/src/dashboard-ng.js.coffee"
+			],
+			[
+				"colu",
+				"app/src/components/fieldselect/columnselect.template.jade"
+			],
+			[
+				"test.ng",
+				"test/spec/services/test.ng-table-helper.service.coffee"
+			],
+			[
+				"campaignl",
+				"app/src/services/campaignlist.service.coffee"
+			],
+			[
+				"service",
+				"app/src/services/campaignlist.service.coffee"
+			],
+			[
+				"testservice",
+				"test/spec/services/test.apibasic.service.coffee"
+			],
+			[
+				"utilser",
+				"app/src/services/util.service.coffee"
+			],
+			[
+				"campaiselec",
+				"app/src/components/campaignsimpleselect/campaignselect.template.jade"
+			],
+			[
+				"prot",
+				"test/protractor.conf.js"
+			],
+			[
+				"pak",
+				"package.json"
+			],
+			[
+				"tablecampaigns.template.jade",
+				"app/src/templates/tablecampaigns.template.jade"
+			],
+			[
+				"sheets-ca",
+				"app/src/components/sheets/campaign-sheet/campaign-sheet.directive.coffee"
+			],
+			[
+				"dash",
+				"app/src/dashboard-ng.js.coffee"
+			],
+			[
+				"sheets",
+				"app/src/controllers/SheetsController.coffee"
+			],
+			[
+				"page-trans",
+				"app/src/components/pageleads/page-transactions.controller.coffee"
+			],
+			[
+				".ade",
+				"app/src/templates/sheets.template.jade"
+			],
+			[
+				"tablecampai",
+				"app/src/templates/tablecampaigns.template.html"
+			],
+			[
+				"tablefa",
+				"app/src/directives/tablecampaigns-directive.coffee"
+			],
+			[
+				"tablecampa",
+				"app/src/directives/tablecampaigns-directive.coffee"
+			],
+			[
+				"campaignshee",
+				"app/src/directives/campaigngraphmenu-widget.js.coffee"
+			],
+			[
+				"sheets.te",
+				"app/src/templates/sheets.template.jade"
+			],
+			[
+				"ngtbal",
+				"app/src/services/ngtablehelper.service.coffee"
+			],
+			[
+				"test.summ",
+				"test/spec/services/test.summary-boxes.service.coffee"
+			],
+			[
+				"summ",
+				"app/src/components/sheets/summary-boxes/summary-boxes.service.coffee"
+			],
+			[
+				"_test.",
+				"test/spec/services/_test.xxxxxx.service.coffee_"
+			],
+			[
+				"testsumm",
+				"test/spec/services/test.summary-boxes.service.coffee"
+			],
+			[
+				"summaryser",
+				"app/src/components/sheets/summary-boxes/summary-boxes.service.coffee"
+			],
+			[
+				"sessionse",
+				"app/src/services/session.service.coffee"
+			],
+			[
+				"_test",
+				"test/spec/services/_test.xxxxxx.service.coffee"
+			],
+			[
+				"test.x",
+				"test/spec/services/test.xxxscafoldxxx.service.coffee"
+			],
+			[
+				"ash.",
+				"ash.conf.coffee"
+			],
+			[
+				"test.api",
+				"test/spec/services/test.apibasic.service.coffee"
+			],
+			[
+				"snowy",
+				"app/style/snowy/snowy-variables.less"
+			],
+			[
+				"yiel",
+				"app/style/skins/yieldify.less"
+			],
+			[
+				"over",
+				"app/style/snowy/overwriter.less"
+			],
+			[
+				"colmn",
+				"app/src/components/fieldselect/columnselect.service.coffee"
+			],
+			[
+				"gulp",
+				"Gulpfile.coffee"
+			],
+			[
+				"apibasicservice",
+				"app/src/services/apibasic.service.coffee"
+			],
+			[
+				"apiba",
+				"app/src/services/apibasic.service.coffee"
+			],
+			[
+				"session.",
+				"app/src/services/session.service.coffee"
+			],
+			[
+				"apib",
+				"app/src/services/apibasic.service.coffee"
+			],
+			[
+				"columnser",
+				"app/src/components/fieldselect/columnselect.service.coffee"
+			],
+			[
+				"ession",
+				"app/src/services/session.service.coffee"
+			],
+			[
+				"session",
+				"app/src/services/session.service.coffee"
+			],
+			[
+				"test.session",
+				"test/spec/services/test.session.service.coffee"
+			],
+			[
+				"summar/",
+				"app/src/components/sheets/summary-boxes/summary-boxes.template.jade"
+			],
+			[
+				"test.utl",
+				"test/spec/services/test.util.service.coffee"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 260.0,
+		"selected_items":
+		[
+			[
+				"sidr",
+				"sidr"
+			]
+		],
+		"width": 1084.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 259.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
