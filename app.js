@@ -3,6 +3,9 @@
 var http = require('http');
 var koa = require('koa');
 var app = koa();
+var router = require('koa-router');
+
+app.use(router(app));
 
 // mw: x response time
 app.use(function *(next) {
@@ -22,9 +25,13 @@ app.use(function *(next) {
     console.log('%s %s (%sms)', this.method, this.url, t1-t0);
 });
 
-// mw: response
-app.use(function *() {
-    this.body = 'Hello nurse!';
+// routes: response
+app.get('/', function *() {
+    this.body = 'GET index';
+});
+
+app.post('/', function *() {
+    this.body = 'POST index';
 });
 
 // run
